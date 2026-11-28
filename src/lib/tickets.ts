@@ -4,7 +4,7 @@ import * as api from "./api";
 export const TICKETS = {
   workerUrl: "https://castletool-tickets-auth.juniorboy62011.workers.dev",
   /** Ticket site address. Leave empty to hide the "Need help?" link until the site is live. */
-  siteUrl: "",
+  siteUrl: "https://castletool.github.io/requests",
   firebaseProject: "castletool-70b7f",
   firebaseKey: "AIzaSyCq0GAXA9rae8_xuO4UHfn3Mr8Td7dxDnE",
 };

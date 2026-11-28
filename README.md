@@ -7,7 +7,7 @@
 [![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flar&logo=capacitor&logoColor=white)](https://capacitorjs.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-**Castletool, in your browser.** A web port of [Castletool for Android](https://github.com/MGoosePlayZ/castletool-android) (CTA) and the Castletool CLI.
+**Castletool, in your browser.** A web port of the Castletool CLI.
 
 Sign in with your Castle account, clone decks, add images, animations, video, SVGs, fonts, MIDI, and audio to blueprints, then save your card back to Castle.
 
